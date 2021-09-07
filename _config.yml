@@ -1,0 +1,10 @@
+title: SEBHC Home
+description: Society of Eight-Bit Heathkit Computerists (SEBHC). A web site dedicated to preserving the Heathkit 8 bit computers
+use_html_extension: false
+
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "page"
+

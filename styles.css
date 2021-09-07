@@ -1,0 +1,16 @@
+html,
+body {
+  background-color: white;
+  font-family: monospace !important;
+}
+
+/** Apply this style to the first H1 element on the page, which is the page Title. */
+h1:first-of-type {
+  font-family: "Courier New", "Courier", monospace !important;
+  text-align: center !important;
+  text-decoration: underline !important;
+}
+
+.markdown-body {
+  font-family: monospace !important;
+}
