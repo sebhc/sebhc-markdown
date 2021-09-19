@@ -14,32 +14,32 @@ BitBucket link [BitBucket](https://bitbucket.org/HeathkitGuy/heathkitinformation
 
 Full Repository download here [HeathkitDocs.zip (320mb)](https://drive.google.com/file/d/1KHUsbUAgvDOCalBWoRJ-Nk-ODGmii0vN/view?usp=sharing)
 
-[H-8](https://sebhc.github.io/sebhc/documentation.html#Heathkit_H-8)
-[H-9](https://sebhc.github.io/sebhc/documentation.html#Heathkit_H-9)
-[H-19](https://sebhc.github.io/sebhc/documentation.html#Heathkit_H-19)
-[H-89/Z-90](https://sebhc.github.io/sebhc/documentation.html#HZ-888990)
-[H/Z-100](https://sebhc.github.io/sebhc/documentation.html#HZ-100)
-[ANAPRO](https://sebhc.github.io/sebhc/documentation.html#ANAPRO)
-[ATG SYSTEMS](https://sebhc.github.io/sebhc/documentation.html#ATG_Systems)
-[Corvus Systems](https://sebhc.github.io/sebhc/documentation.html#CORVUS_Systems)
-[DG Electronics](https://sebhc.github.io/sebhc/documentation.html#DG_Electronics)
-[Magnolia Microsystems](https://sebhc.github.io/sebhc/documentation.html#MAGNOLIA_Microsystems)
-[SoftStuff](https://sebhc.github.io/sebhc/documentation.html#SoftStuff)
-[TMSI](https://sebhc.github.io/sebhc/documentation.html#TMSI)
-[MISC](https://sebhc.github.io/sebhc/documentation.html#MISC)
-[GAMES](https://sebhc.github.io/sebhc/documentation.html#GAMES)
+- [H-8](https://sebhc.github.io/sebhc-markdown/documentation#heathkit-h-8)
+- [H-9](https://sebhc.github.io/sebhc-markdown/documentation#heathkit-h-9)
+- [H-19](https://sebhc.github.io/sebhc-markdown/documentation#heathkit-h-19)
+- [H-89/Z-90](https://sebhc.github.io/sebhc-markdown/documentation#hz-888990)
+- [H/Z-100](https://sebhc.github.io/sebhc-markdown/documentation#hz-100)
+- [ANAPRO](https://sebhc.github.io/sebhc-markdown/documentation#anapro)
+- [ATG SYSTEMS](https://sebhc.github.io/sebhc-markdown/documentation#atg-systems)
+- [Corvus Systems](https://sebhc.github.io/sebhc-markdown/documentation#corvus-systems)
+- [DG Electronics](https://sebhc.github.io/sebhc-markdown/documentation#dg-electronics)
+- [Magnolia Microsystems](https://sebhc.github.io/sebhc-markdown/documentation#magnolia-microsystems)
+- [SoftStuff](https://sebhc.github.io/sebhc-markdown/documentation#softstuff)
+- [TMSI](https://sebhc.github.io/sebhc-markdown/documentation#tmsi)
+- [MISC](https://sebhc.github.io/sebhc-markdown/documentation#misc)
+- [GAMES](https://sebhc.github.io/sebhc-markdown/documentation#games)
 
 Update March 4, 2012
 [REMark Magazine Scans at Richard Pestingers website](http://pestingers.net/pages-images/heathkit/computers/remark-magazines/remark-cvrs.htm)
 
 Update March 17, 2013
-[Heathkit Source Code Listings](https://sebhc.github.io/sebhc/documentation.html#HEATHKIT_SOURCE_LISTINGS)[Heathkit Adapter Cables 597-1836-01](https://sebhc.github.io/sebhc/documentation/software/docs/AdapterCables_597-1836-01.pdf) (PDF 103KB)
+[Heathkit Source Code Listings](https://sebhc.github.io/sebhc-markdown/documentation#HEATHKIT_SOURCE_LISTINGS)[Heathkit Adapter Cables 597-1836-01](https://sebhc.github.io/sebhc/documentation/software/docs/AdapterCables_597-1836-01.pdf) (PDF 103KB)
 (WH9-1, WH8-51, WH11-51, WH8-41)[EEPROM pinouts](https://sebhc.github.io/sebhc/documentation/software/docs/Eprom_Pinouts.pdf) (PDF 26KB)
 (6116 2Kx8, 6264 8Kx8, 62256 32Kx8 RAM)
 (27C16 2Kx8, 27C32 4Kx8, 27C64 8Kx8, 27C128 16Kx8, 27C256 32Kx8, 27C512 64Kx8, 27C0x0 EEPROM)
 
 Update August 23, 2014
-[Added Floppy and Hard Drive Listing (Floppy\_ZDS\_GC57.pdf)](https://sebhc.github.io/sebhc/documentation.html#MISC)
+[Added Floppy and Hard Drive Listing (Floppy\_ZDS\_GC57.pdf)](https://sebhc.github.io/sebhc-markdown/documentation#misc)
 
 ___
 

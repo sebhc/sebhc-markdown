@@ -15,9 +15,9 @@ This web site is the home of the SEBHC. The SEBHC archive contains a full set of
 
 Click on a link below to be taken to that section of the web site.
 
-[DOCUMENTATION](https://sebhc.github.io/sebhc/documentation.html) for the Heathkit **H-8** and **H-89** computers
+[DOCUMENTATION](https://sebhc.github.io/sebhc-markdown/documentation) for the Heathkit **H-8** and **H-89** computers
 
-[DOCUMENTATION](https://sebhc.github.io/sebhc/documentation.html#HZ-100) for **H/Z-100** computers
+[DOCUMENTATION](https://sebhc.github.io/sebhc-markdown/documentation#hz-100) for **H/Z-100** computers
 
 [HDOS Y2K patch](https://sebhc.github.io/sebhc/documentation/software/supplemental/HDOS_2.0_System_Y2K_Date_Patch.pdf) by Stanley K. Webb
 
